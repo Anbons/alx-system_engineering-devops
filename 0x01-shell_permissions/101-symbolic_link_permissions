@@ -1,2 +1,2 @@
 #1/bin/bash
-chgrp school hello
+chown -h vincentstaff _hello
